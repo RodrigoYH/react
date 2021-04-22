@@ -1,0 +1,49 @@
+.containerShows
+{
+    background-color: rgb(6, 17, 54);
+    padding: 20px;
+}
+
+.targetShow
+{
+    background-color: rgb(65, 45, 10);
+    width: 20%;
+    margin: 20px;
+    padding: 10px;
+}
+
+.mainContainer
+{
+    display: inline-flex;
+}
+
+h2
+{
+    font-family: Arial;
+}
+
+p
+{
+    font-family: Arial;
+    font-size: 12px;
+    color: white;
+    text-align: center;
+}
+
+img
+{
+    width: 100%;
+}
+
+.btnShowButton
+{
+    background-color: gold;
+    border-radius: 10px;
+    height: 20px; 
+    width: 100px; 
+    margin: -20px -50px; 
+    position: relative;
+    top: 50%; 
+    left: 50%;
+    cursor: pointer;
+}

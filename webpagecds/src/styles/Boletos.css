@@ -1,0 +1,59 @@
+.mainContainerTickets
+{
+    display: inline-flex;
+}
+
+.imageBoletos
+{
+    background-color: rgb(6, 17, 54);
+    width: 80%;
+}
+
+.h3Title
+{
+    background-color: rgb(68, 58, 11);
+    font-family: Arial;
+    text-align: center;
+    color: white;
+    padding: 10px;
+}
+
+.ticketsForm
+{
+    width: 100%;
+    background-color: rgb(6, 17, 54);
+    padding: 20px;
+    display: inline-block;
+}
+
+.txtNombre, .cmdShows, .cmdCategories, .txtEmail, .txtCardNumber, .txtDateExp, .txtCV
+{
+    width: 50%;
+    background-color: rgb(109, 89, 0);
+    font-family: Arial;
+    font-size: 13px;
+    text-align: center;
+    color: white;
+    padding: 5px;
+    border-radius: 20px;
+    border-color: black;
+}
+
+.chkTerminos
+{
+    font-family: Arial;
+    font-style: italic;
+    font-size: 14px;
+    color: white;
+}
+
+.btnSubmitTicket
+{
+    background-color: goldenrod;
+    font-family: Helvetica;
+    text-align: center;
+    font-size: 15px;
+    width: 30%;
+    margin-bottom: 5px;
+    padding: 20px;
+}

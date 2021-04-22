@@ -1,0 +1,39 @@
+.imagen img
+{
+    width: 100%;
+}
+
+.description1
+{
+    font-family: Arial;
+    background-color: rgb(45, 70, 16);
+    color: white;
+    font-size: 14px;
+    padding: 10px;
+    text-align: right;
+}
+
+.description2
+{
+    font-family: Arial;
+    background-color: rgb(0, 71, 119);
+    color: white;
+    font-size: 14px;
+    padding: 10px;
+    text-align: right;
+}
+
+.description3
+{
+    font-family: Arial;
+    background-color: rgb(5, 6, 73);
+    color: white;
+    font-size: 14px;
+    padding: 10px;
+    text-align: right;
+}
+
+.descpritionTitle
+{
+    text-align: left;
+}
